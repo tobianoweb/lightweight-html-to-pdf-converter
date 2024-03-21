@@ -1,0 +1,22 @@
+{
+  "name": "lightweight-html-to-pdf-converter",
+  "version": "1.0.2",
+  "description": "A lightweight library for converting HTML to PDF with dynamic data injection.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobianoweb/lightweight-html-to-pdf-converter"
+  },
+  "dependencies": {
+    "puppeteer": "^13.0.0",
+    "handlebars": "^4.7.7",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
